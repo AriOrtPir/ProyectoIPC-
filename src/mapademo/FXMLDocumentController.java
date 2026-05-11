@@ -77,7 +77,7 @@ import javafx.util.Duration;
  * inicialización una vez que el FXML ha sido cargado completamente.
  */
 public class FXMLDocumentController implements Initializable {
-
+//HOLA.
     // =========================================================
     //  ESTRUCTURA DE NODOS PARA ZOOM
     // =========================================================
